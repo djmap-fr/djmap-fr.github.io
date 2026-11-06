@@ -1,0 +1,1268 @@
+{
+ "venues": {
+  "pier80": {
+   "n": "Pier 80",
+   "city": "San Francisco",
+   "country": "États-Unis",
+   "lat": 37.736,
+   "lon": -122.377
+  },
+  "zamnasharm": {
+   "n": "Zamna Sharm El-Sheikh",
+   "city": "Sharm el-Sheikh",
+   "country": "Égypte",
+   "lat": 27.9158,
+   "lon": 34.33
+  },
+  "daytulum": {
+   "n": "Day Zero Festival",
+   "city": "Tulum",
+   "country": "Mexique",
+   "lat": 20.2114,
+   "lon": -87.4654
+  },
+  "beachhotel": {
+   "n": "Beach Hotel",
+   "city": "Byron Bay",
+   "country": "Australie",
+   "lat": -28.643,
+   "lon": 153.615
+  },
+  "mix": {
+   "n": "MIX Festival",
+   "city": "Istanbul",
+   "country": "Turquie",
+   "lat": 41.0082,
+   "lon": 28.9784
+  },
+  "dnacamb": {
+   "n": "DNA Art Car",
+   "city": "Camboriú",
+   "country": "Brésil",
+   "lat": -27.0258,
+   "lon": -48.6517
+  },
+  "dubaibab": {
+   "n": "Bab Al Shams Event Arena",
+   "city": "Dubaï",
+   "country": "Émirats arabes unis",
+   "lat": 24.97,
+   "lon": 55.01
+  },
+  "blackstone": {
+   "n": "Blackstone Street Warehouse",
+   "city": "Liverpool",
+   "country": "Royaume-Uni",
+   "lat": 53.4084,
+   "lon": -2.9916
+  },
+  "aiwh": {
+   "n": "A.i. Warehouse",
+   "city": "Washington",
+   "country": "États-Unis",
+   "lat": 38.9072,
+   "lon": -77.0369
+  },
+  "pachany": {
+   "n": "Pacha NYC",
+   "city": "New York",
+   "country": "États-Unis",
+   "lat": 40.764,
+   "lon": -73.997
+  },
+  "acemission": {
+   "n": "Ace Mission Studios",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.046,
+   "lon": -118.2337
+  },
+  "surfabu": {
+   "n": "Surf Abu Dhabi",
+   "city": "Abu Dhabi",
+   "country": "Émirats arabes unis",
+   "lat": 24.4539,
+   "lon": 54.3773
+  },
+  "hocus": {
+   "n": "Hocus Pocus",
+   "city": "Miami",
+   "country": "États-Unis",
+   "lat": 25.848,
+   "lon": -80.216
+  },
+  "concourse": {
+   "n": "Concourse Project",
+   "city": "Austin",
+   "country": "États-Unis",
+   "lat": 30.23,
+   "lon": -97.68
+  },
+  "kc": {
+   "n": "Power & Light District",
+   "city": "Kansas City",
+   "country": "États-Unis",
+   "lat": 39.0997,
+   "lon": -94.5786
+  },
+  "haunted": {
+   "n": "Haunted Fest",
+   "city": "St Petersburg",
+   "country": "États-Unis",
+   "lat": 27.77,
+   "lon": -82.64
+  },
+  "gloria": {
+   "n": "Gloria Molina Grand Park",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.056,
+   "lon": -118.2467
+  },
+  "flanders": {
+   "n": "Flanders Expo",
+   "city": "Gand",
+   "country": "Belgique",
+   "lat": 51.03,
+   "lon": 3.7
+  },
+  "warehouse": {
+   "n": "Depot Mayfield",
+   "city": "Manchester",
+   "country": "Royaume-Uni",
+   "lat": 53.4745,
+   "lon": -2.2275
+  },
+  "wbh": {
+   "n": "We Belong Here",
+   "city": "La Nouvelle-Orléans",
+   "country": "États-Unis",
+   "lat": 29.9511,
+   "lon": -90.0715
+  },
+  "zamnatulum": {
+   "n": "Zamna Tulum",
+   "city": "Tulum",
+   "country": "Mexique",
+   "lat": 20.18,
+   "lon": -87.475
+  },
+  "midway": {
+   "n": "The Midway",
+   "city": "San Francisco",
+   "country": "États-Unis",
+   "lat": 37.753,
+   "lon": -122.387
+  },
+  "ultrawh": {
+   "n": "Ultra Warehouse",
+   "city": "Derby",
+   "country": "Royaume-Uni",
+   "lat": 52.9225,
+   "lon": -1.4746
+  },
+  "gorilla": {
+   "n": "Gorilla",
+   "city": "Manchester",
+   "country": "Royaume-Uni",
+   "lat": 53.476,
+   "lon": -2.237
+  },
+  "futur": {
+   "n": "Futur Festival",
+   "city": "Monterrey",
+   "country": "Mexique",
+   "lat": 25.6781,
+   "lon": -100.289
+  },
+  "zamnamex": {
+   "n": "Zamna México",
+   "city": "Mexico",
+   "country": "Mexique",
+   "lat": 19.4326,
+   "lon": -99.1332
+  },
+  "quarters": {
+   "n": "Quarters",
+   "city": "Brighton",
+   "country": "Royaume-Uni",
+   "lat": 50.8225,
+   "lon": -0.1372
+  },
+  "clubspace": {
+   "n": "Club Space",
+   "city": "Miami",
+   "country": "États-Unis",
+   "lat": 25.781,
+   "lon": -80.193
+  },
+  "dna": {
+   "n": "DNA Art Car",
+   "city": "São Paulo",
+   "country": "Brésil",
+   "lat": -23.5505,
+   "lon": -46.6333
+  },
+  "hollywoodblvd": {
+   "n": "Hollywood Blvd",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.1016,
+   "lon": -118.3267
+  },
+  "ductwork": {
+   "n": "Ductwork Houston",
+   "city": "Houston",
+   "country": "États-Unis",
+   "lat": 29.7604,
+   "lon": -95.3698
+  },
+  "qnight": {
+   "n": "Q Nightclub",
+   "city": "Seattle",
+   "country": "États-Unis",
+   "lat": 47.613,
+   "lon": -122.335
+  },
+  "roxy": {
+   "n": "Coca-Cola Roxy",
+   "city": "Atlanta",
+   "country": "États-Unis",
+   "lat": 33.889,
+   "lon": -84.466
+  },
+  "lab11": {
+   "n": "LAB11",
+   "city": "Birmingham",
+   "country": "Royaume-Uni",
+   "lat": 52.471,
+   "lon": -1.882
+  },
+  "reframe": {
+   "n": "Reframe Studios",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.0407,
+   "lon": -118.2468
+  },
+  "rady": {
+   "n": "Rady Shell",
+   "city": "San Diego",
+   "country": "États-Unis",
+   "lat": 32.7075,
+   "lon": -117.1603
+  },
+  "teresina": {
+   "n": "Lieu à confirmer",
+   "city": "Teresina",
+   "country": "Brésil",
+   "lat": -5.0892,
+   "lon": -42.8019
+  },
+  "hordern": {
+   "n": "Hordern Pavilion",
+   "city": "Sydney",
+   "country": "Australie",
+   "lat": -33.892,
+   "lon": 151.224
+  },
+  "onyx": {
+   "n": "Onyx Arena",
+   "city": "Djeddah",
+   "country": "Arabie saoudite",
+   "lat": 21.5433,
+   "lon": 39.1728
+  },
+  "watson": {
+   "n": "Watson Island Park",
+   "city": "Miami",
+   "country": "États-Unis",
+   "lat": 25.784,
+   "lon": -80.17
+  },
+  "zamnamtl": {
+   "n": "Zamna Montréal",
+   "city": "Montréal",
+   "country": "Canada",
+   "lat": 45.5017,
+   "lon": -73.5673
+  },
+  "ironworks": {
+   "n": "Ironworks",
+   "city": "Londres",
+   "country": "Royaume-Uni",
+   "lat": 51.5074,
+   "lon": -0.1278
+  },
+  "westworld": {
+   "n": "Westworld of Scottsdale",
+   "city": "Scottsdale",
+   "country": "États-Unis",
+   "lat": 33.64,
+   "lon": -111.91
+  },
+  "parcforum": {
+   "n": "Parc del Fòrum",
+   "city": "Barcelone",
+   "country": "Espagne",
+   "lat": 41.412,
+   "lon": 2.223
+  },
+  "greek": {
+   "n": "Greek Theatre",
+   "city": "Berkeley",
+   "country": "États-Unis",
+   "lat": 37.8738,
+   "lon": -122.2549
+  },
+  "seattleX": {
+   "n": "Lieu à confirmer",
+   "city": "Seattle",
+   "country": "États-Unis",
+   "lat": 47.6062,
+   "lon": -122.3321
+  },
+  "reframein": {
+   "n": "Reframe Studios",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.0407,
+   "lon": -118.2468
+  },
+  "sohogarden": {
+   "n": "Soho Garden",
+   "city": "Dubaï",
+   "country": "Émirats arabes unis",
+   "lat": 25.155,
+   "lon": 55.3
+  },
+  "factorybasel": {
+   "n": "Factory Basel",
+   "city": "Miami",
+   "country": "États-Unis",
+   "lat": 25.7617,
+   "lon": -80.1918
+  },
+  "taets": {
+   "n": "Taets Art & Event Park",
+   "city": "Zaandam",
+   "country": "Pays-Bas",
+   "lat": 52.438,
+   "lon": 4.826
+  },
+  "zurimel": {
+   "n": "ZURI Festival",
+   "city": "Melbourne",
+   "country": "Australie",
+   "lat": -37.8136,
+   "lon": 144.9631
+  },
+  "toyota": {
+   "n": "Pavilion at Toyota Music Factory",
+   "city": "Irving",
+   "country": "États-Unis",
+   "lat": 32.8573,
+   "lon": -96.9536
+  },
+  "pier48": {
+   "n": "Pier 48 (Shed A)",
+   "city": "San Francisco",
+   "country": "États-Unis",
+   "lat": 37.77,
+   "lon": -122.387
+  },
+  "encore": {
+   "n": "Encore Beach Club",
+   "city": "Las Vegas",
+   "country": "États-Unis",
+   "lat": 36.1267,
+   "lon": -115.1665
+  },
+  "rebel": {
+   "n": "Rebel",
+   "city": "Toronto",
+   "country": "Canada",
+   "lat": 43.641,
+   "lon": -79.355
+  },
+  "fortal": {
+   "n": "Terminal Marítimo",
+   "city": "Fortaleza",
+   "country": "Brésil",
+   "lat": -3.7138,
+   "lon": -38.5014
+  },
+  "zouk": {
+   "n": "Zouk Nightclub",
+   "city": "Las Vegas",
+   "country": "États-Unis",
+   "lat": 36.1356,
+   "lon": -115.1671
+  },
+  "circoloco": {
+   "n": "Circoloco Mexico",
+   "city": "Mexico",
+   "country": "Mexique",
+   "lat": 19.4046,
+   "lon": -99.1
+  },
+  "freaky": {
+   "n": "Freaky Deaky",
+   "city": "La Nouvelle-Orléans",
+   "country": "États-Unis",
+   "lat": 29.9511,
+   "lon": -90.0715
+  },
+  "district": {
+   "n": "District Atlanta",
+   "city": "Atlanta",
+   "country": "États-Unis",
+   "lat": 33.749,
+   "lon": -84.388
+  },
+  "villalobos": {
+   "n": "Parque Villa-Lobos",
+   "city": "São Paulo",
+   "country": "Brésil",
+   "lat": -23.547,
+   "lon": -46.721
+  },
+  "gaswrx": {
+   "n": "GASWRX",
+   "city": "Birmingham",
+   "country": "Royaume-Uni",
+   "lat": 52.476,
+   "lon": -1.89
+  },
+  "hallow": {
+   "n": "Hallowfest (Fabrik)",
+   "city": "Madrid",
+   "country": "Espagne",
+   "lat": 40.254,
+   "lon": -3.8
+  },
+  "motorpoint": {
+   "n": "Motorpoint Arena",
+   "city": "Nottingham",
+   "country": "Royaume-Uni",
+   "lat": 52.954,
+   "lon": -1.145
+  },
+  "petco": {
+   "n": "Petco Park",
+   "city": "San Diego",
+   "country": "États-Unis",
+   "lat": 32.7076,
+   "lon": -117.157
+  },
+  "royale": {
+   "n": "Royale Boston",
+   "city": "Boston",
+   "country": "États-Unis",
+   "lat": 42.35,
+   "lon": -71.065
+  },
+  "rioprêto": {
+   "n": "Lieu à confirmer",
+   "city": "São José do Rio Preto",
+   "country": "Brésil",
+   "lat": -20.8113,
+   "lon": -49.3758
+  },
+  "loop": {
+   "n": "LOOP NYD",
+   "city": "Madrid",
+   "country": "Espagne",
+   "lat": 40.4168,
+   "lon": -3.7038
+  },
+  "dreamland": {
+   "n": "Dreamland",
+   "city": "Margate",
+   "country": "Royaume-Uni",
+   "lat": 51.388,
+   "lon": 1.383
+  },
+  "timewarpmx": {
+   "n": "Time Warp Mexico",
+   "city": "Mexico",
+   "country": "Mexique",
+   "lat": 19.4326,
+   "lon": -99.1332
+  },
+  "dubaipacha": {
+   "n": "Pacha Icons, Five Luxe JBR",
+   "city": "Dubaï",
+   "country": "Émirats arabes unis",
+   "lat": 25.08,
+   "lon": 55.133
+  },
+  "lifesp": {
+   "n": "Life São Paulo",
+   "city": "São Paulo",
+   "country": "Brésil",
+   "lat": -23.5505,
+   "lon": -46.6333
+  },
+  "timewarpla": {
+   "n": "Time Warp LA",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.05,
+   "lon": -118.24
+  },
+  "zurisyd": {
+   "n": "ZURI Festival",
+   "city": "Sydney",
+   "country": "Australie",
+   "lat": -33.8688,
+   "lon": 151.2093
+  },
+  "edcorlando": {
+   "n": "Electric Daisy Carnival",
+   "city": "Orlando",
+   "country": "États-Unis",
+   "lat": 28.5391,
+   "lon": -81.4037
+  },
+  "m3f": {
+   "n": "M3F Festival",
+   "city": "Phoenix",
+   "country": "États-Unis",
+   "lat": 33.4484,
+   "lon": -112.074
+  },
+  "palladium": {
+   "n": "Hollywood Palladium",
+   "city": "Los Angeles",
+   "country": "États-Unis",
+   "lat": 34.098,
+   "lon": -118.338
+  },
+  "echostage": {
+   "n": "Echostage",
+   "city": "Washington",
+   "country": "États-Unis",
+   "lat": 38.918,
+   "lon": -76.977
+  },
+  "radius": {
+   "n": "Radius",
+   "city": "Chicago",
+   "country": "États-Unis",
+   "lat": 41.86,
+   "lon": -87.65
+  },
+  "fiveluxe": {
+   "n": "Five Luxe JBR",
+   "city": "Dubaï",
+   "country": "Émirats arabes unis",
+   "lat": 25.08,
+   "lon": 55.133
+  },
+  "xs": {
+   "n": "XS Nightclub",
+   "city": "Las Vegas",
+   "country": "États-Unis",
+   "lat": 36.1267,
+   "lon": -115.1665
+  },
+  "silo": {
+   "n": "SILO",
+   "city": "Dallas",
+   "country": "États-Unis",
+   "lat": 32.79,
+   "lon": -96.83
+  },
+  "rawhide": {
+   "n": "Rawhide Event Center",
+   "city": "Chandler",
+   "country": "États-Unis",
+   "lat": 33.297,
+   "lon": -111.84
+  },
+  "olinda": {
+   "n": "Classic Hall",
+   "city": "Olinda",
+   "country": "Brésil",
+   "lat": -8.0089,
+   "lon": -34.8553
+  },
+  "fye": {
+   "n": "Fye Ultra Club",
+   "city": "Toronto",
+   "country": "Canada",
+   "lat": 43.65,
+   "lon": -79.39
+  },
+  "prospect": {
+   "n": "The Prospect Building",
+   "city": "Bristol",
+   "country": "Royaume-Uni",
+   "lat": 51.4545,
+   "lon": -2.5879
+  },
+  "getfreaky": {
+   "n": "Get Freaky Festival",
+   "city": "Magna",
+   "country": "États-Unis",
+   "lat": 40.736,
+   "lon": -112.19
+  },
+  "koko": {
+   "n": "KOKO",
+   "city": "Londres",
+   "country": "Royaume-Uni",
+   "lat": 51.534,
+   "lon": -0.138
+  },
+  "edcphuket": {
+   "n": "Electric Daisy Carnival",
+   "city": "Phuket",
+   "country": "Thaïlande",
+   "lat": 7.8804,
+   "lon": 98.3923
+  },
+  "littleriver": {
+   "n": "Little River Studios",
+   "city": "Miami",
+   "country": "États-Unis",
+   "lat": 25.8317,
+   "lon": -80.1957
+  },
+  "ushuaiadxb": {
+   "n": "Ushuaïa Dubai Harbour",
+   "city": "Dubaï",
+   "country": "Émirats arabes unis",
+   "lat": 25.095,
+   "lon": 55.147
+  },
+  "palmtree": {
+   "n": "Palm Tree Music Festival",
+   "city": "Aspen",
+   "country": "États-Unis",
+   "lat": 39.1911,
+   "lon": -106.8175
+  },
+  "lurin": {
+   "n": "Lurin Live",
+   "city": "Lima",
+   "country": "Pérou",
+   "lat": -12.27,
+   "lon": -76.87
+  },
+  "creamsc": {
+   "n": "Creamfields Chile",
+   "city": "Santiago",
+   "country": "Chili",
+   "lat": -33.4489,
+   "lon": -70.6693
+  },
+  "f_alpe": {
+   "n": "Alpe d'Huez",
+   "city": "Alpe d'Huez",
+   "country": "France",
+   "lat": 45.092,
+   "lon": 6.07
+  },
+  "f_maimarkt": {
+   "n": "Maimarkthalle",
+   "city": "Mannheim",
+   "country": "Allemagne",
+   "lat": 49.4741,
+   "lon": 8.5236
+  },
+  "f_sonarf": {
+   "n": "Fira Montjuïc / Gran Via",
+   "city": "Barcelone",
+   "country": "Espagne",
+   "lat": 41.3716,
+   "lon": 2.148
+  },
+  "f_defqon": {
+   "n": "Walibi Holland",
+   "city": "Biddinghuizen",
+   "country": "Pays-Bas",
+   "lat": 52.44,
+   "lon": 5.76
+  },
+  "f_awake": {
+   "n": "Site du festival",
+   "city": "Hilvarenbeek",
+   "country": "Pays-Bas",
+   "lat": 51.487,
+   "lon": 5.136
+  },
+  "f_ultraeu": {
+   "n": "Stade Poljud",
+   "city": "Split",
+   "country": "Croatie",
+   "lat": 43.519,
+   "lon": 16.443
+  },
+  "f_cream": {
+   "n": "Daresbury Estate",
+   "city": "Warrington",
+   "country": "Royaume-Uni",
+   "lat": 53.333,
+   "lon": -2.64
+  },
+  "f_mystery": {
+   "n": "Site du festival",
+   "city": "Haarlemmermeer",
+   "country": "Pays-Bas",
+   "lat": 52.298,
+   "lon": 4.676
+  },
+  "f_nuits": {
+   "n": "Lyon (plusieurs lieux)",
+   "city": "Lyon",
+   "country": "France",
+   "lat": 45.764,
+   "lon": 4.8357
+  },
+  "f_marvel": {
+   "n": "Île sur la Marne (lieu à confirmer)",
+   "city": "Paris",
+   "country": "France",
+   "lat": 48.845,
+   "lon": 2.47
+  },
+  "f_insane": {
+   "n": "Apt",
+   "city": "Apt",
+   "country": "France",
+   "lat": 43.876,
+   "lon": 5.396
+  },
+  "f_kappa": {
+   "n": "Parco Dora",
+   "city": "Turin",
+   "country": "Italie",
+   "lat": 45.09,
+   "lon": 7.67
+  },
+  "f_musicon": {
+   "n": "Amsterdam",
+   "city": "Amsterdam",
+   "country": "Pays-Bas",
+   "lat": 52.3676,
+   "lon": 4.9041
+  },
+  "f_ultramia": {
+   "n": "Bayfront Park",
+   "city": "Miami",
+   "country": "États-Unis",
+   "lat": 25.7745,
+   "lon": -80.186
+  },
+  "f_edclv": {
+   "n": "Las Vegas Motor Speedway",
+   "city": "Las Vegas",
+   "country": "États-Unis",
+   "lat": 36.2724,
+   "lon": -115.0104
+  },
+  "f_tlthai": {
+   "n": "Wisdom Valley",
+   "city": "Pattaya",
+   "country": "Thaïlande",
+   "lat": 12.82,
+   "lon": 101.04
+  },
+  "f_tlbr": {
+   "n": "Parque Maeda",
+   "city": "Itu",
+   "country": "Brésil",
+   "lat": -23.264,
+   "lon": -47.299
+  },
+  "f_zamna": {
+   "n": "Zamna Tulum",
+   "city": "Tulum",
+   "country": "Mexique",
+   "lat": 20.2114,
+   "lon": -87.4654
+  },
+  "f_pkv": {
+   "n": "Flughafen Weeze",
+   "city": "Weeze",
+   "country": "Allemagne",
+   "lat": 51.6021,
+   "lon": 6.1423
+  },
+  "f_untold": {
+   "n": "Cluj Arena",
+   "city": "Cluj-Napoca",
+   "country": "Roumanie",
+   "lat": 46.7667,
+   "lon": 23.5727
+  },
+  "f_upclose": {
+   "n": "Spaarnwoude",
+   "city": "Spaarnwoude",
+   "country": "Pays-Bas",
+   "lat": 52.409,
+   "lon": 4.704
+  },
+  "f_extrema": {
+   "n": "Extrema Outdoor",
+   "city": "Houthalen-Helchteren",
+   "country": "Belgique",
+   "lat": 51.03,
+   "lon": 5.38
+  },
+  "f_bonair": {
+   "n": "Marseille",
+   "city": "Marseille",
+   "country": "France",
+   "lat": 43.2965,
+   "lon": 5.3698
+  },
+  "f_movement": {
+   "n": "Hart Plaza",
+   "city": "Détroit",
+   "country": "États-Unis",
+   "lat": 42.3277,
+   "lon": -83.0467
+  },
+  "f_ubbi": {
+   "n": "Fort Worth",
+   "city": "Fort Worth",
+   "country": "États-Unis",
+   "lat": 32.7555,
+   "lon": -97.3308
+  },
+  "f_ikarus": {
+   "n": "Flughafen Memmingen",
+   "city": "Memmingerberg",
+   "country": "Allemagne",
+   "lat": 47.9888,
+   "lon": 10.2395
+  },
+  "f_snowb": {
+   "n": "Mayrhofen",
+   "city": "Mayrhofen",
+   "country": "Autriche",
+   "lat": 47.16,
+   "lon": 11.86
+  },
+  "f_sunburn": {
+   "n": "Mumbai",
+   "city": "Mumbai",
+   "country": "Inde",
+   "lat": 19.076,
+   "lon": 72.8777
+  },
+  "f_ultramx": {
+   "n": "Estadio Banorte",
+   "city": "Mexico",
+   "country": "Mexique",
+   "lat": 19.3029,
+   "lon": -99.1505
+  },
+  "f_ade": {
+   "n": "Amsterdam (plusieurs lieux)",
+   "city": "Amsterdam",
+   "country": "Pays-Bas",
+   "lat": 52.3676,
+   "lon": 4.9041
+  },
+  "f_nosleep": {
+   "n": "Belgrade (plusieurs lieux)",
+   "city": "Belgrade",
+   "country": "Serbie",
+   "lat": 44.8125,
+   "lon": 20.4612
+  },
+  "f_dgtl": {
+   "n": "NDSM",
+   "city": "Amsterdam",
+   "country": "Pays-Bas",
+   "lat": 52.401,
+   "lon": 4.892
+  },
+  "f_lumin": {
+   "n": "Zandvoort",
+   "city": "Zandvoort",
+   "country": "Pays-Bas",
+   "lat": 52.375,
+   "lon": 4.53
+  },
+  "f_hibern": {
+   "n": "Pas de la Casa (Grandvalira)",
+   "city": "Pas de la Casa",
+   "country": "Andorre",
+   "lat": 42.5426,
+   "lon": 1.7336
+  },
+  "f_fcknye": {
+   "n": "Brussels Expo",
+   "city": "Bruxelles",
+   "country": "Belgique",
+   "lat": 50.895,
+   "lon": 4.3414
+  },
+  "f_fabrik": {
+   "n": "Fabrik",
+   "city": "Humanes de Madrid",
+   "country": "Espagne",
+   "lat": 40.2425,
+   "lon": -3.833
+  },
+  "f_circuitbcn": {
+   "n": "Circuit de Barcelona-Catalunya",
+   "city": "Montmeló (Barcelone)",
+   "country": "Espagne",
+   "lat": 41.57,
+   "lon": 2.2611
+  }
+ },
+ "events": [
+  {
+   "dj": "Tomorrowland Winter",
+   "venue": "f_alpe",
+   "date": "2027-03-20",
+   "end": "2027-03-27",
+   "ticketUrl": "https://www.tomorrowland.com/winter",
+   "festival": true
+  },
+  {
+   "dj": "Time Warp",
+   "venue": "f_maimarkt",
+   "date": "2027-04-03",
+   "end": "2027-04-04",
+   "ticketUrl": "https://time-warp.de",
+   "festival": true
+  },
+  {
+   "dj": "Sónar",
+   "venue": "f_sonarf",
+   "date": "2027-06-17",
+   "end": "2027-06-19",
+   "ticketUrl": "https://sonar.es",
+   "festival": true
+  },
+  {
+   "dj": "Defqon.1",
+   "venue": "f_defqon",
+   "date": "2027-06-24",
+   "end": "2027-06-27",
+   "ticketUrl": "https://www.q-dance.com/en/defqon1",
+   "festival": true
+  },
+  {
+   "dj": "Awakenings",
+   "venue": "f_awake",
+   "date": "2027-07-09",
+   "end": "2027-07-11",
+   "ticketUrl": "https://www.awakenings.com",
+   "festival": true
+  },
+  {
+   "dj": "Ultra Europe",
+   "venue": "f_ultraeu",
+   "date": "2027-07-09",
+   "end": "2027-07-11",
+   "ticketUrl": "https://ultraeurope.com",
+   "festival": true
+  },
+  {
+   "dj": "Creamfields",
+   "venue": "f_cream",
+   "date": "2027-08-26",
+   "end": "2027-08-29",
+   "ticketUrl": "https://www.creamfields.com",
+   "festival": true
+  },
+  {
+   "dj": "Mysteryland",
+   "venue": "f_mystery",
+   "date": "2027-08-27",
+   "end": "2027-08-29",
+   "ticketUrl": "https://www.mysteryland.nl",
+   "festival": true
+  },
+  {
+   "dj": "Nuits Sonores",
+   "venue": "f_nuits",
+   "date": "2027-05-05",
+   "end": "2027-05-09",
+   "ticketUrl": "https://www.nuits-sonores.com",
+   "festival": true
+  },
+  {
+   "dj": "Marvellous Island",
+   "venue": "f_marvel",
+   "date": "2027-05-15",
+   "end": "2027-05-16",
+   "ticketUrl": "https://www.technoairlines.com/festival/marvellous-island-festival-paris-france-2027",
+   "festival": true
+  },
+  {
+   "dj": "Insane Festival",
+   "venue": "f_insane",
+   "date": "2027-05-06",
+   "end": "2027-05-09",
+   "ticketUrl": "https://www.google.com/search?q=Insane%20Festival%20Apt%202027%20billets",
+   "festival": true
+  },
+  {
+   "dj": "Kappa FuturFestival",
+   "venue": "f_kappa",
+   "date": "2027-07-02",
+   "end": "2027-07-04",
+   "ticketUrl": "https://www.kappafuturfestival.it",
+   "festival": true
+  },
+  {
+   "dj": "Music On Festival",
+   "venue": "f_musicon",
+   "date": "2027-05-01",
+   "end": "2027-05-02",
+   "ticketUrl": "https://www.google.com/search?q=Music%20On%20Festival%20Amsterdam%202027%20billets",
+   "festival": true
+  },
+  {
+   "dj": "Ultra Music Festival",
+   "venue": "f_ultramia",
+   "date": "2027-03-26",
+   "end": "2027-03-28",
+   "ticketUrl": "https://ultramusicfestival.com/tickets/miami/",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "EDC Las Vegas",
+   "venue": "f_edclv",
+   "date": "2027-05-14",
+   "end": "2027-05-16",
+   "ticketUrl": "https://lasvegas.electricdaisycarnival.com",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "EDC Las Vegas",
+   "venue": "f_edclv",
+   "date": "2027-05-21",
+   "end": "2027-05-23",
+   "ticketUrl": "https://lasvegas.electricdaisycarnival.com",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Tomorrowland Thailand",
+   "venue": "f_tlthai",
+   "date": "2026-12-11",
+   "end": "2026-12-13",
+   "ticketUrl": "https://www.tomorrowland.com",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Tomorrowland Brasil",
+   "venue": "f_tlbr",
+   "date": "2027-04-30",
+   "end": "2027-05-02",
+   "ticketUrl": "https://www.tomorrowland.com",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Zamna Tulum",
+   "venue": "f_zamna",
+   "date": "2026-12-31",
+   "end": "2027-01-10",
+   "ticketUrl": "https://www.zamnafestival.com",
+   "festival": true,
+   "style": "tech"
+  },
+  {
+   "dj": "Parookaville",
+   "venue": "f_pkv",
+   "date": "2027-07-16",
+   "end": "2027-07-18",
+   "ticketUrl": "https://www.google.com/search?q=Parookaville%202027%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Untold",
+   "venue": "f_untold",
+   "date": "2027-08-05",
+   "end": "2027-08-08",
+   "ticketUrl": "https://www.google.com/search?q=Untold%20Festival%202027%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Awakenings Upclose",
+   "venue": "f_upclose",
+   "date": "2027-05-15",
+   "end": "2027-05-16",
+   "ticketUrl": "https://www.awakenings.com",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "Extrema Outdoor",
+   "venue": "f_extrema",
+   "date": "2027-05-14",
+   "end": "2027-05-16",
+   "ticketUrl": "https://www.google.com/search?q=Extrema%20Outdoor%20Belgium%202027%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Festival Le Bon Air",
+   "venue": "f_bonair",
+   "date": "2027-05-14",
+   "end": "2027-05-16",
+   "ticketUrl": "https://www.google.com/search?q=Festival%20Le%20Bon%20Air%20Marseille%202027%20billets",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "Movement Detroit",
+   "venue": "f_movement",
+   "date": "2027-05-29",
+   "end": "2027-05-31",
+   "ticketUrl": "https://movementfestival.com",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "Ubbi Dubbi",
+   "venue": "f_ubbi",
+   "date": "2027-04-23",
+   "end": "2027-04-24",
+   "ticketUrl": "https://www.google.com/search?q=Ubbi%20Dubbi%202027%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Ikarus Festival",
+   "venue": "f_ikarus",
+   "date": "2027-06-25",
+   "end": "2027-06-27",
+   "ticketUrl": "https://www.google.com/search?q=Ikarus%20Festival%202027%20Memmingen%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Snowbombing",
+   "venue": "f_snowb",
+   "date": "2027-04-05",
+   "end": "2027-04-10",
+   "ticketUrl": "https://www.google.com/search?q=Snowbombing%202027%20Mayrhofen%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Sunburn Festival",
+   "venue": "f_sunburn",
+   "date": "2026-12-18",
+   "end": "2026-12-20",
+   "ticketUrl": "https://sunburn.in",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Ultra Mexico",
+   "venue": "f_ultramx",
+   "date": "2026-11-07",
+   "end": "2026-11-08",
+   "ticketUrl": "https://www.google.com/search?q=Ultra%20Mexico%202026%20Estadio%20Banorte%20boletos",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Amsterdam Dance Event",
+   "venue": "f_ade",
+   "date": "2027-10-20",
+   "end": "2027-10-24",
+   "ticketUrl": "https://www.amsterdam-dance-event.nl",
+   "festival": true,
+   "style": "tech"
+  },
+  {
+   "dj": "No Sleep Festival",
+   "venue": "f_nosleep",
+   "date": "2026-11-28",
+   "ticketUrl": "https://www.exitfest.org/en",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "DGTL Amsterdam",
+   "venue": "f_dgtl",
+   "date": "2027-03-26",
+   "end": "2027-03-28",
+   "ticketUrl": "https://www.google.com/search?q=DGTL%20Festival%20Amsterdam%202027%20tickets",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "Luminosity Beach Festival",
+   "venue": "f_lumin",
+   "date": "2027-06-24",
+   "end": "2027-06-27",
+   "ticketUrl": "https://www.google.com/search?q=Luminosity%20Beach%20Festival%202027%20tickets",
+   "festival": true,
+   "style": "edm"
+  },
+  {
+   "dj": "Max Dean",
+   "venue": "fiveluxe",
+   "date": "2026-12-11",
+   "ticketUrl": "https://www.ticketmaster.ae/event/luke-dean-b2b-max-dean--pacha-icons-tickets/1877550820"
+  },
+  {
+   "dj": "Hibernation Festival",
+   "venue": "f_hibern",
+   "date": "2027-03-19",
+   "end": "2027-03-21",
+   "ticketUrl": "https://www.google.com/search?q=Hibernation%20Festival%202027%20Andorre%20billets",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "FCKNYE Festival",
+   "venue": "f_fcknye",
+   "date": "2026-12-30",
+   "end": "2027-01-01",
+   "ticketUrl": "https://www.google.com/search?q=FCKNYE%20Festival%202026%20Brussels%20Expo%20tickets",
+   "festival": true,
+   "style": "techno"
+  },
+  {
+   "dj": "LOOP NYD Festival",
+   "venue": "f_fabrik",
+   "date": "2027-01-01",
+   "end": "2027-01-02",
+   "ticketUrl": "https://www.google.com/search?q=LOOP%20NYD%20Festival%202027%20Fabrik%20Madrid%20entradas",
+   "festival": true,
+   "style": "tech"
+  },
+  {
+   "dj": "Paco Osuna",
+   "venue": "f_fabrik",
+   "date": "2027-01-01",
+   "ticketUrl": "https://www.google.com/search?q=LOOP%20NYD%20Festival%202027%20Fabrik%20Madrid%20entradas"
+  },
+  {
+   "dj": "Marco Carola",
+   "venue": "f_fabrik",
+   "date": "2027-01-01",
+   "ticketUrl": "https://www.google.com/search?q=LOOP%20NYD%20Festival%202027%20Fabrik%20Madrid%20entradas"
+  },
+  {
+   "dj": "elrow Unreal New Year's Day Rave",
+   "venue": "f_circuitbcn",
+   "date": "2027-01-01",
+   "ticketUrl": "https://www.google.com/search?q=elrow%20Unreal%20New%20Years%20Day%20Rave%202027%20Barcelona%20Circuit%20tickets",
+   "festival": true,
+   "style": "tech"
+  }
+ ]
+}
